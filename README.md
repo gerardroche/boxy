@@ -19,7 +19,6 @@ You can find [here][showcase] more examples how to personalize your experience w
 
 ![Showcase][img-showcase]
 
-
 <sup>&#x2733; THE FONT USED FOR THE CODE IS <a href="https://www.google.com/fonts/specimen/Roboto+Mono" target="_blank"><b>"ROBOTO MONO"</b></a> ON <b>WINDOWS</b> (SO YEAH, <b>OS X</b> FONT RENDERING LOOKS MUCH BETTER)</sup><br>
 <sup>&#x2733;&#x2733; THE SHOWCASE SCREENSHOTS CAN CONTAIN SOME GIF RECORDING ARTIFACTS</sup>
 
@@ -37,7 +36,7 @@ You can find [here][showcase] more examples how to personalize your experience w
 [upgrading]: https://github.com/oivva/boxy/wiki/Upgrading
 [issues]: https://github.com/oivva/boxy/issues
 [wiki]: https://github.com/oivva/boxy/wiki
-[showcase]: https://github.com/oivva/boxy/wiki/Showcase
+[showcase]: https://github.com/oivva/boxy/wiki/Gallery
 [website]: http://www.oivva.com/boxy/
 [known-issues]: https://github.com/oivva/boxy/wiki#known-issues
 [pr]: https://github.com/wbond/package_control_channel/pull/5500
@@ -56,4 +55,4 @@ You can find [here][showcase] more examples how to personalize your experience w
 [img-patreon]: https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/readme/patreon.png
 [img-flattr]: https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/readme/flattr.png
 [img-bitcoin]: https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/readme/bitcoin.png
-[img-showcase]: https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/readme/showcase.gif
+[img-showcase]: https://raw.githubusercontent.com/oivva/boxy-extras/master/assets/readme/gallery.gif
