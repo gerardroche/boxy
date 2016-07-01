@@ -431,11 +431,14 @@ body {
   height: 100%;
 }
 
-body {
+html {
   background: url('../images/bg.jpg') no-repeat top center;
   background-size: cover;
+}
 
+body {
   font-family: 'Roboto', 'Open Sans', sans-serif;
+  background: rgba(0, 0, 0, .35);
 }
 
 @-webkit-keyframes accent {
