@@ -1,6 +1,4 @@
-"""
-A File Icon Installer
-"""
+"""A File Icon Installer."""
 
 import os
 import sublime

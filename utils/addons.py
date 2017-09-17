@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
-Boxy Theme Add-ons
-"""
+"""Boxy Theme Add-ons."""
 
 import sublime
 import os

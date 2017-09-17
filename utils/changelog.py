@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
-Boxy Theme Changelog
-"""
+"""Boxy Theme Changelog."""
 
 import sublime
 import sublime_plugin

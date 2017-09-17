@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
-Boxy Theme Links
-"""
+"""Boxy Theme Links."""
 
 import sublime
 import sublime_plugin

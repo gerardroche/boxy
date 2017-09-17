@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
-Boxy Theme Activation
-"""
+"""Boxy Theme Activation."""
 
 import sublime
 import sublime_plugin
